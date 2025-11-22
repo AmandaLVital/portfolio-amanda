@@ -16,7 +16,7 @@ Automação completa que desenvolvi para gerar documentos oficiais de obras (alv
 - Geração automática de requerimentos, declarações, procurações e relatórios
 - Redução quase total de erros humanos
 - Ganho enorme de produtividade
-- Uso de Google Apps Script e manipulação automatizada de documentos
+- Uso de Excel + Python e manipulação automatizada de documentos
 
 
 ---
