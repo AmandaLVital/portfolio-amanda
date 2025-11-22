@@ -45,13 +45,6 @@ Nenhum código ou dado sensível é compartilhado.
 
 ---
 
-##  Currículo
-
-Você pode acessar meu currículo completo aqui:
-
- **[Currículo Amanda Lustosa Vital (PDF)](../main/Curriculo_Amanda_Lustosa_Vital.pdf)**
-
----
 
 ##  Contato
 
