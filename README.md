@@ -18,26 +18,6 @@ Automação completa que desenvolvi para gerar documentos oficiais de obras (alv
 - Ganho enorme de produtividade
 - Uso de Google Apps Script e manipulação automatizada de documentos
 
----
-
-### 🔹 [Análises – Wird Solutions](https://github.com/AmandaLVital/analises-wird-solutions)
-Projeto voluntário onde realizei limpeza, preparação e análise de dados de leads provenientes de campanhas Meta Ads.
-
-- Dashboards no Power BI
-- Insights para otimização de campanhas
-- Ciclo completo de análise exploratória
-
----
-
-### 🔹 [Estudos & Projetos Públicos](https://github.com/AmandaLVital/estudos-e-projetos-publicos)
-Repositório com projetos de estudo, dashboards, SQL, Python e automações utilizando dados públicos.
-
-Exemplos incluídos:
-
-- ETL com Python + SQL
-- Dashboards no Looker/Power BI com datasets públicos
-- Automação de planilhas
-- Projetos de e-commerce, varejo e análises exploratórias
 
 ---
 
