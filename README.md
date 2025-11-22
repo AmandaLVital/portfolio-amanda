@@ -8,9 +8,9 @@ Tenho foco em **resolver problemas reais**, criar automações inteligentes, tra
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🔹 [Automação de Documentos na Construção Civil](https://github.com/AmandaLVital/automacao-documentos-obra)
+###  [Automação de Documentos na Construção Civil](https://github.com/AmandaLVital/automacao-documentos-obra)
 Automação completa que desenvolvi para gerar documentos oficiais de obras (alvará, regularização, habite-se, relatórios fotográficos, etc.) a partir de uma única planilha no Google Sheets.
 
 - Geração automática de requerimentos, declarações, procurações e relatórios
@@ -21,7 +21,7 @@ Automação completa que desenvolvi para gerar documentos oficiais de obras (alv
 
 ---
 
-### 🔹 [Case Profissional — Grupo TOKY](https://github.com/AmandaLVital/case-grupo-toky)
+###  [Case Profissional — Grupo TOKY](https://github.com/AmandaLVital/case-grupo-toky)
 Repositório descritivo (sem dados da empresa) com explicações sobre:
 
 - Pipelines e ETLs que construí
@@ -34,7 +34,7 @@ Nenhum código ou dado sensível é compartilhado.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - **Linguagens:** SQL, Python  
 - **Plataformas:** Databricks, BigQuery  
@@ -45,15 +45,15 @@ Nenhum código ou dado sensível é compartilhado.
 
 ---
 
-## 📄 Currículo
+##  Currículo
 
 Você pode acessar meu currículo completo aqui:
 
-👉 **[Currículo Amanda Lustosa Vital (PDF)](../main/Curriculo_Amanda_Lustosa_Vital.pdf)**
+ **[Currículo Amanda Lustosa Vital (PDF)](../main/Curriculo_Amanda_Lustosa_Vital.pdf)**
 
 ---
 
-## 🌐 Contato
+##  Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/amanda-lustosa-vital/  
 - **E-mail:** amandalusvital@gmail.com  
